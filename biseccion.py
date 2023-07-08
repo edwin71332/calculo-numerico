@@ -1,3 +1,5 @@
+#Edwin Rodríguez
+#CI: 29668894
 from math import *
 def f(x):
     return sin(x)-pow(e,-x);
