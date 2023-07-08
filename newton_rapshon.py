@@ -1,3 +1,5 @@
+#Edwin Rodríguez
+#CI: 29668894
 from sympy import *
 from math import e
 
